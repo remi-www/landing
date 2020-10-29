@@ -1,0 +1,12 @@
+.icons i {
+  height: 30px;
+  width: 30px;
+  color: #1DDD88;
+}
+.footer {
+  color: #6A6B6B;
+  background-color: #2C2B2B;
+  text-align: center;
+  padding: 80px;
+  font-size: 18px;
+}
